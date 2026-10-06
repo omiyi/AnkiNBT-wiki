@@ -17,4 +17,4 @@ python -m mkdocs build --strict --site-dir site
 
 正式站点：
 
-https://ankilove.github.io/AnkiNBT-wiki/
+https://omiyi.github.io/OmiyiNBT-wiki/

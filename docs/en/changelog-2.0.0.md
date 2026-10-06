@@ -41,4 +41,4 @@
 - 1984 final screenshots and zero runtime log issues.
 - QA automation code is not included in release jars.
 
-Download: [GitHub Release 2.0.0](https://github.com/AnkiLove/AnkiNBT/releases/tag/2.0.0)
+Download: [GitHub Release 2.0.0](https://github.com/omiyi/AnkiNBT/releases/tag/2.0.0)

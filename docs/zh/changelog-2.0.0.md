@@ -41,4 +41,4 @@
 - 1984 张最终截图，运行时日志问题为 0。
 - QA 自动化代码不会打入发布 JAR。
 
-下载地址：[GitHub Release 2.0.0](https://github.com/AnkiLove/AnkiNBT/releases/tag/2.0.0)
+下载地址：[GitHub Release 2.0.0](https://github.com/omiyi/AnkiNBT/releases/tag/2.0.0)

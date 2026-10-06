@@ -64,7 +64,7 @@ Minecraft 1.21 builds use Java 21. Minecraft 26.x builds use Java 25.
 
 ### Q: I found a bug. Where can I report it?
 
-**A:** Please open an issue on the [GitHub Issues](https://github.com/AnkiLove/AnkiNBT/issues) page with:
+**A:** Please open an issue on the [GitHub Issues](https://github.com/omiyi/AnkiNBT/issues) page with:
 - Your Minecraft version
 - Mod loader (NeoForge or Fabric) and version
 - Steps to reproduce the bug

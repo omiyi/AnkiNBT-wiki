@@ -64,7 +64,7 @@
 
 ### 问：我发现了 Bug，在哪里反馈？
 
-**答：** 请在 [GitHub Issues](https://github.com/AnkiLove/AnkiNBT/issues) 页面提交问题，包含以下信息：
+**答：** 请在 [GitHub Issues](https://github.com/omiyi/AnkiNBT/issues) 页面提交问题，包含以下信息：
 - 你的 Minecraft 版本
 - 模组加载器（NeoForge 或 Fabric）及版本
 - 重现步骤

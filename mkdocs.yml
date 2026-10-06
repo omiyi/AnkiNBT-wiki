@@ -1,8 +1,8 @@
 site_name: AnkiNBT 文档
 site_description: AnkiNBT Minecraft NBT 编辑器文档
-site_url: https://ankilove.github.io/AnkiNBT-wiki/
-repo_url: https://github.com/AnkiLove/AnkiNBT
-repo_name: AnkiLove/AnkiNBT
+site_url: https://omiyi.github.io/OmiyiNBT-wiki/
+repo_url: https://github.com/omiyi/AnkiNBT
+repo_name: omiyi/AnkiNBT
 docs_dir: docs
 site_dir: site
 not_in_nav: |
@@ -49,7 +49,7 @@ extra:
   generator: false
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/AnkiLove/AnkiNBT
+      link: https://github.com/omiyi/AnkiNBT
       name: GitHub
 
 plugins:
