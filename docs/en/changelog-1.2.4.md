@@ -1,6 +1,6 @@
 # AnkiNBT 1.2.4 Changelog
 
-1.2.4 focuses on stability, editor usability and complete 26.1 line support. The documentation was also moved into the standalone OmiyiNBT-wiki project.
+1.2.4 focuses on stability, editor usability and complete 26.1 line support. The documentation was also moved into the standalone AnkiNBT-wiki project.
 
 ## Added And Improved
 
@@ -65,7 +65,7 @@
 
 ## Documentation
 
-- Documentation moved to the standalone `OmiyiNBT-wiki` repository.
+- Documentation moved to the standalone `AnkiNBT-wiki` repository.
 - The documentation root now opens directly to Quick Start.
 - Added a feature overview page.
 - The header GitHub link now points to the main `omiyi/AnkiNBT` project.
